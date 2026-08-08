@@ -1,7 +1,6 @@
 {
-  "version": "1.0.0",
-  "name": "rex-ping-pro-update",
-  "description": "",
-  "author": "",
-  "license": ""
+  "versionCode": 1,
+  "versionName": "1.0",
+  "downloadUrl": "https://ANGEL-JHAN.github.io/rex-ping-pro-update/REX-PING-PRO.apk",
+  "message": "Debes actualizar REX PING PRO para continuar."
 }
